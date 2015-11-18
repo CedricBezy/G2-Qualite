@@ -18,5 +18,5 @@
 ## Travail préparatoire
 
 - Travail documentaire sur le contrôle de qualité et le développement agile , pour arriver en ayant tout de suite des conseils à donner aux groupes.
-- [Se familiariser avec Python](https://github.com/TaxiSID/Documentation/wiki/Introduction-au-langage-Python)
+- [Se familiariser avec Python](https://github.com/TaxiSID/Documentation/wiki/Introduction-au-langage-Python).
 - [Se familiariser aux tests](https://github.com/TaxiSID/Documentation/wiki/Structurer,-documenter-et-tester-un-projet#tests).
